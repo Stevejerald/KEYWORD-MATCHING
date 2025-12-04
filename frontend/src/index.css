@@ -1,0 +1,16 @@
+/* index.css — SAFE CLEAN VERSION */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #222;  /* match your dark theme */
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
